@@ -1,0 +1,9 @@
+8300577
+sigs.k8s.io/controller-runtime/tools/setup-envtest v0.0.0-20211208212546-f236f0345ad2 h1:ixmjiqjca72gl+JktzMpZZJYDpYJ4ZGgExZJJ4AzG7o=
+sigs.k8s.io/controller-runtime/tools/setup-envtest v0.0.0-20211208212546-f236f0345ad2/go.mod h1:+sJcI1F0QI0Cv+8fp5rH5B2fK1LxzrAQqYnaPx9nY8I=
+
+go.sum database tree
+8552868
+GCWOBCyObzQx3RSLJgajRrssw5AcAzC1GyAIhGDecuo=
+
+— sum.golang.org Az3grvEyURu5uHJar+X+DwNSsplFDYZhB3LDszgHPL6kqnUIsfcjHSgq5hiuoQqXaN5eZUOFuESmcTYXoO1Ba/6xHgQ=

@@ -1,0 +1,24 @@
+# permissions for end users to edit podprinters.
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRole
+metadata:
+  name: podprinter-editor-role
+rules:
+- apiGroups:
+  - homework.podprinter.com
+  resources:
+  - podprinters
+  verbs:
+  - create
+  - delete
+  - get
+  - list
+  - patch
+  - update
+  - watch
+- apiGroups:
+  - homework.podprinter.com
+  resources:
+  - podprinters/status
+  verbs:
+  - get

@@ -1,0 +1,7 @@
+apiVersion: homework.podprinter.com/v1alpha1
+kind: Podprinter
+metadata:
+  name: podprinter-sample
+spec:
+  size: 3
+  # Add fields here

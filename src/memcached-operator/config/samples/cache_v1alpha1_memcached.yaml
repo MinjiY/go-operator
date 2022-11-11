@@ -1,0 +1,8 @@
+apiVersion: cache.example.com/v1alpha1
+kind: Memcached
+metadata:
+  name: memcached-sample
+spec:
+  size: 3
+  printer: "spce.printer field 로그찍기"
+  # Add fields here
